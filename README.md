@@ -1,0 +1,2 @@
+# qodghe
+research notes
